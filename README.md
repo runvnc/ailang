@@ -1,3 +1,7 @@
+## New Related Idea
+
+Maybe instead of 8x8 they are 64x64 bytes and all neural networks considered separate modules/functions. A big part of training is selecting and connecting modules together and learning how to do that. So like taking neural architecture search to the extreme.
+
 ## What are some similar ideas that already exist
 
 Parallel programming/computation background..
